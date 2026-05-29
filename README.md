@@ -8,8 +8,7 @@ O projeto foi desenvolvido como atividade acadêmica, utilizando conceitos moder
 
 # Aluno
 
-**Artur Lima Pinto Bacalhau**
-RA: **00000852137**
+**Artur Lima Pinto Bacalhau** / RA: **00000852137**
 
 ---
 
