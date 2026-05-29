@@ -225,12 +225,12 @@ Além da proposta acadêmica, o desenvolvimento também serviu como prática ava
 # Links:
 
 ## Video no YouTube: 
-[https://youtube.com/shorts/OjKGuCyYBEA]
+https://youtube.com/shorts/OjKGuCyYBEA
 
 
 ## Projeto publicado no Expo:
-[https://expo.dev/accounts/meus-projetos/projects/App]
+https://expo.dev/accounts/meus-projetos/projects/App
 
 
 ## QR Code para testar o app no Expo Go (necessário baixar o app "Expo Go" na loja de apps do seu celular):
-[https://expo.dev/preview/update/expo-go?message=Correçoes+de+codigos&updateRuntimeVersion=exposdk%3A54.0.0&createdAt=2026-05-29T00%3A54%3A38.907Z&slug=exp&projectId=71f9ce48-65fe-419d-a90f-e091c5e7dbc4&group=f42a233d-30aa-4de1-b1ab-b718fed58be2]
+https://expo.dev/preview/update/expo-go?message=Correçoes+de+codigos&updateRuntimeVersion=exposdk%3A54.0.0&createdAt=2026-05-29T00%3A54%3A38.907Z&slug=exp&projectId=71f9ce48-65fe-419d-a90f-e091c5e7dbc4&group=f42a233d-30aa-4de1-b1ab-b718fed58be2
